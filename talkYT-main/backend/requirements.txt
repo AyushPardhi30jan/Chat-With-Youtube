@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+google-generativeai
+youtube-transcript-api
+python-dotenv
+langchain-google-genai
+langchain-community
+pydantic
