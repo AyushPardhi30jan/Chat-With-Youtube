@@ -25,22 +25,6 @@ This Chrome extension uses **Retrieval-Augmented Generation (RAG)** to let you a
 
 ---
 
-## 📦 Folder Structure
-talkYT/
-├── backend/ # FastAPI server (AI + transcript processing)
-│ ├── main.py
-│ ├── chat.py
-│ ├── .env
-│ └── requirements.txt
-├── extension/ # Chrome extension frontend
-│ ├── manifest.json
-│ ├── popup.html
-│ ├── popup.js
-│ ├── contentScript.js
-│ └── icons/
-│ ├── icon16.png
-│ ├── icon48.png
-│ └── icon128.png
 
 # 🔧 Setup Instructions: YouTube AI Chat Extension
 
